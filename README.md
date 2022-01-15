@@ -17,7 +17,7 @@
   - Controller: Controlar a ação
   - Routes: Aciona o método desejado dentro do controller
 - Criação da página "about"
-  - Route - http://localhost:3000/rails/info/routes
+  - Route - http://127.0.0.1:3000/rails/info/routes
   - Controller
   - View
   - Visualizar a página
